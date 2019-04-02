@@ -1,4 +1,3 @@
-# FACE-RECOGNITION
 # Face Recognition with OpenCV
 # Import Required Modules
 # Before starting the actual coding we need to import the required modules for coding. So let's import them first.
