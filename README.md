@@ -1,2 +1,2 @@
-##Face Recognition with OpenCV and Python
-#Introduction
+Face Recognition with OpenCV and Python
+Introduction
